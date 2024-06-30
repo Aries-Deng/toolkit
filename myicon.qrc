@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/myimages">
+        <file>tubiao.jpg</file>
+        <file>guanxi.jpg</file>
+        <file>jinianri.jpg</file>
+        <file>beijing.jpg</file>
+        <file>change.jpg</file>
+    </qresource>
+</RCC>
